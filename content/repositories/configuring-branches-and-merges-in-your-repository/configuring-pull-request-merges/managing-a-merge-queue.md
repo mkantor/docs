@@ -48,7 +48,7 @@ For information about merge methods, see "[About pull request merges](/pull-requ
 
 ## Managing a merge queue
 
-Repository administrators can require a merge by enabling the branch protection setting "Require merge queue" in the protection rules for the base branch.
+Repository administrators can require a merge queue by enabling the branch protection setting "Require merge queue" in the protection rules for the base branch.
 
 For information about how to enable the merge queue protection setting, see "[Managing a branch protection rule](/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule#creating-a-branch-protection-rule)."
 
